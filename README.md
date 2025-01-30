@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imad Eddine</h1>
 <h3 align="center">I am a driven and enthusiastic data scientist hailing. Currently, I am pursuing my degree in computer science, specializing in computer vision, machine learning, and natural language processing. My expertise extends to multiple programming languages. My proficiency in optimizing machine learning models to function in real-time and software development makes me an asset to any project. As a self-taught professional, I am constantly expanding my skill set to ensure that I am at the forefront of my field. Additionally ,collaborating with a team and leading projects is a passion of mine. My serious, dynamic, and motivated approach ensures my  success in all of my endeavors.</h3>
 
-- 🔭 I’m currently working on **Traffic pattern recognition and travel time prediction**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/imad_lassakeur_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imad_lassakeur_1" height="30" width="40" /></a>
